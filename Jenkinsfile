@@ -20,8 +20,7 @@ pipeline {
         }
         stage('RunShellScript') {
           steps {
-            echo "-----sh commented-----",
-            //#sh 'aaa="Hello"; bbb=" World"; echo $aaa$bbb >> aaabbb.txt'
+            echo "-----sh commented-----"  //#sh 'aaa="Hello"; bbb=" World"; echo $aaa$bbb >> aaabbb.txt'
           }
         }
       }

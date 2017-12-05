@@ -2,3 +2,6 @@ b3.txt
 111 - from branchTested2
 b3.txt2222222
 b3.txt3333333+
+7777777 - from Win7
+8888888
+9999999
